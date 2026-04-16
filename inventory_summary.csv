@@ -1,0 +1,9 @@
+Product,Category,Avg_Demand,Demand_Std,Peak_Demand,Avg_Value,Stockout_Days
+Arabica_Beans_kg,Coffee,58.25,16.27,135,7855.08,141
+Cups_Units,Packaging,53.87,14.22,135,79.67,137
+Milk_Liters,Dairy,38.1,9.21,74,883.08,141
+Oat_Milk_Liters,Dairy,36.25,9.02,71,1629.51,141
+Pastries_Units,Bakery,13.27,3.56,29,483.38,135
+Robusta_Beans_kg,Coffee,40.65,10.23,76,4149.6,142
+Sugar_kg,Dry,59.2,15.48,159,856.67,139
+Syrup_Vanilla_ml,Flavoring,35.18,9.0,82,2632.51,132
